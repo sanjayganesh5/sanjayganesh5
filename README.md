@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning DevOps.
 <!-- - 💞️ I’m looking to collaborate on  -->
-- 📫 How to reach me [sanjayganesh5](ssanjay.ganesh5@gmail.com)
+- 📫 How to reach me [sanjayganesh5](mailto:ssanjay.ganesh5@gmail.com)
 
 <!---
 sanjayganesh5/sanjayganesh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
