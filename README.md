@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjayganesh5
-- 👀 I’m interested in ...
+<!-- - 👀 I’m interested in  -->
 - 🌱 I’m currently learning DevOps.
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me [sanjayganesh5](mailto:ssanjay.ganesh5@gmail.com)
